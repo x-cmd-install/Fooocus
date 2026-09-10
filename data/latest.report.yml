@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.5.5"
   latestRelease: "v2.5.5"
   latestPrerelease: "v2.5.0-rc1"
-  collectedAt: 2026-09-10T17:43:55Z
+  collectedAt: 2026-09-10T23:48:21Z
 timeline:
   created: 2023-08-09
   lastCommit: 2025-09-02
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 52969
   watcher: 484
-  fork: 8601
+  fork: 8600
   release: 21
   contributor: 59
   pullRequest: 733
@@ -82,13 +82,13 @@ recent:
 total:
   release: 21
   mergedPR: 448
-  openPR: 66
+  openPR: 65
   closedIssue: 1421
   openIssue: 248
   commit: 1144
 ---
 path: /home/runner/.x-repo/github.com/lllyasviel/Fooocus
-collectedAt: 2026-09-10T17:44:02Z
+collectedAt: 2026-09-10T23:48:25Z
 loc:
   Json:
     code: 152495
