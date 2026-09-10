@@ -148,4 +148,3 @@ total:
 ---
 
 ---
-{"id":169712814,"author":{"login":"mashb1t","id":9307310,"node_id":"MDQ6VXNlcjkzMDczMTA=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOKFVBps4KHZyu","tag_name":"v2.5.5","target_commitish":"main","name":"v2.5.5","draft":false,"immutable":false,"prerelease":false,"created_at":"2024-08-12T06:11:06Z","updated_at":"2024-08-12T06:12:31Z","published_at":"2024-08-12T06:12:31Z","assets":[],"body":"## What's Changed\r\n* fix: resolve colab unsupported image type issue by @mashb1t in https://github.com/lllyasviel/Fooocus/pull/3506\r\n\r\n**Full Changelog**: https://github.com/lllyasviel/Fooocus/compare/v2.5.4...v2.5.5","reactions":{"total_count":87,"+1":42,"-1":0,"laugh":3,"hooray":3,"confused":0,"heart":33,"rocket":0,"eyes":6},"mentions_count":1}
