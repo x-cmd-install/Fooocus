@@ -44,7 +44,7 @@
   "discussion_url": "https://github.com/lllyasviel/Fooocus/discussions/3508",
   "reactions": {
     "url": "https://api.github.com/repos/lllyasviel/Fooocus/releases/169712814/reactions",
-    "total_count": 87,
+    "total_count": 88,
     "+1": 42,
     "-1": 0,
     "laugh": 3,
@@ -52,7 +52,7 @@
     "confused": 0,
     "heart": 33,
     "rocket": 0,
-    "eyes": 6
+    "eyes": 7
   },
   "mentions_count": 1
 }
