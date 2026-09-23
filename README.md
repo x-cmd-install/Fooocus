@@ -4,7 +4,7 @@
 
 Focus on prompting and generating
 
-[![x-cmd/install — Fooocus Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Fooocus.svg)](https://x-cmd.com/install/Fooocus)
+[![x-cmd/install — Fooocus Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Fooocus.svg)](https://x-cmd.com/install/Fooocus)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **197,131** lines of code across **258** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 53,140 · **Forks**: 8,617 · **Open issues**: 1,668 · **Contributors**: 59
+- **Stars**: 53,148 · **Forks**: 8,617 · **Open issues**: 1,668 · **Contributors**: 59
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **197,131** lines of code across **258** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 5 | 0 | 3 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 9 | 0 | 8 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 13 | 2 | 20 | 0 |
-| 360d | 2025-09-27 | 0 | 0 | 18 | 7 | 38 | 0 |
-| last720d | 2024-10-02 | 0 | 3 | 24 | 89 | 79 | 3 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 5 | 0 | 3 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 9 | 0 | 8 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 13 | 2 | 20 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 18 | 7 | 38 | 0 |
+| last720d | 2024-10-03 | 0 | 3 | 24 | 89 | 79 | 3 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for Fooocus lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:57:47Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:54:23Z._
