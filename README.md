@@ -36,22 +36,22 @@ Total: **197,131** lines of code across **258** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 53,778 · **Forks**: 8,619 · **Open issues**: 1,670 · **Contributors**: 59
+- **Stars**: 53,799 · **Forks**: 8,622 · **Open issues**: 1,671 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 448 · **Open PRs**: 66 · **Closed issues**: 1421 · **Open issues**: 249 · **Commits**: 1144
+- **Releases**: 21 · **Merged PRs**: 448 · **Open PRs**: 66 · **Closed issues**: 1421 · **Open issues**: 250 · **Commits**: 1144
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-08-03 | 0 | 0 | 6 | 0 | 3 | 0 |
-| last180d | 2026-05-05 | 0 | 0 | 12 | 3 | 16 | 0 |
-| 360d | 2025-11-06 | 0 | 0 | 18 | 6 | 36 | 0 |
-| last720d | 2024-11-11 | 0 | 3 | 24 | 80 | 65 | 3 |
+| 30d | 2026-10-03 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 3 | 0 | 2 | 0 |
+| 90d | 2026-08-04 | 0 | 0 | 6 | 0 | 4 | 0 |
+| last180d | 2026-05-06 | 0 | 0 | 12 | 3 | 17 | 0 |
+| 360d | 2025-11-07 | 0 | 0 | 18 | 5 | 37 | 0 |
+| last720d | 2024-11-12 | 0 | 3 | 24 | 80 | 66 | 3 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for Fooocus lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:51:18Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:53:22Z._
